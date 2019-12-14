@@ -1,0 +1,26 @@
+{
+  "name": "botdiscord",
+  "version": "1.1.1",
+  "description": "just a normal bot",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "npm": "^6.13.4",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.0.0-b22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "?help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jarsuz/EliatopiaDiscordJs.git"
+  },
+  "author": "Kami#8731",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jarsuz/EliatopiaDiscordJs/issues"
+  },
+  "homepage": "https://github.com/Jarsuz/EliatopiaDiscordJs#readme"
+}
